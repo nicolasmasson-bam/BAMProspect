@@ -1,3 +1,45 @@
-PODFILE CHECKSUM: 70d6003b8d6a8d4c8591ea1bf1099d4c1b04ead4
+PODS:
+  - Alamofire (4.9.1)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - PromiseKit/Alamofire (6.13.1):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (6.13.1)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+  - SwiftyJSON (5.0.0)
+  - XCGLogger (7.0.1):
+    - XCGLogger/Core (= 7.0.1)
+  - XCGLogger/Core (7.0.1):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - Alamofire
+  - PromiseKit/Alamofire
+  - SwiftMessages
+  - SwiftyJSON
+  - XCGLogger
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjcExceptionBridging
+    - PromiseKit
+    - SwiftMessages
+    - SwiftyJSON
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  XCGLogger: 1943831ef907df55108b0b18657953f868de973b
+
+PODFILE CHECKSUM: e1f4fbe4b4a5fd2f0a0c717d51394f46b4174b4d
 
 COCOAPODS: 1.8.3

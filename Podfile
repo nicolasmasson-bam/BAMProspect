@@ -6,6 +6,11 @@ target 'BAMProspect' do
   use_frameworks!
 
   # Pods for BAMProspect
+  pod 'Alamofire'
+  pod "PromiseKit/Alamofire"
+  pod "SwiftMessages"
+  pod 'SwiftyJSON'
+  pod 'XCGLogger'
 
   target 'BAMProspectTests' do
     inherit! :search_paths
